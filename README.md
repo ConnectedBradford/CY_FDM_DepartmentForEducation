@@ -91,7 +91,7 @@ Key stage 2 attainment data. This has information on the assessment of learners 
 
 Key stage 3 attainment data.
 
-### src_KS3_pupil - 2001/2002-2007/08
+### src_KS3_pupil - 2001/02-2007/08
 
 Key stage 3 attainment data.
 
