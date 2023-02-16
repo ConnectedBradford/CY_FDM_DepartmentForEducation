@@ -25,7 +25,9 @@ The source tables are largely populated by fields with the prefix 'src_'. When y
 
 📁 **What is an FDM?**
 
-Connected Bradford has adopted the [Observational Medical Outcomes Partnership (OMOP)](https://ohdsi.github.io/CommonDataModel/index.html) Common Data Model (CDM) for the majority of its patient-centred healthcare data. Some datasets in Connected Bradford have features that do not sit well within either the OMOP conceptual vocabulary or the structure of the CDM. The aim of the Flexible Data Model (FDM) is to provide a set of design principles and a data model for non-OMOP datasets such that they can be structured and annotated in an OMOP-friendly way, and are therefore easy to combine with OMOP CDM data during analysis.
+Connected Bradford has adopted the [Observational Medical Outcomes Partnership (OMOP)](https://ohdsi.github.io/CommonDataModel/index.html) Common Data Model (CDM) for the majority of its patient-centred healthcare data. OMOP is an open community data standard, designed to standardize the structure and content of observational data and to enable efficient analyses that can produce reliable evidence. A central component of the OMOP CDM is the OHDSI standardised vocabularies. 
+
+Some datasets in Connected Bradford have features that do not sit well within either the OMOP conceptual vocabulary or the structure of the CDM. The aim of the Flexible Data Model (FDM) is to provide a set of design principles and a data model for non-OMOP datasets such that they can be structured and annotated in an OMOP-friendly way, and are therefore easy to combine with OMOP CDM data during analysis.
 
 The Connected Bradford Flexible Data Model enables researchers to link standardised datasets and tables across different areas, e.g. primary care, social care and education. In order to be linked to a CDM or clinical dataset, FDMs are designed in the same way as a full CDM, to standardize the structure and content of observational data and to enable efficient analyses that can produce reliable evidence. This also helps any researcher familiar with CDM and OMOP vocabulary to replicate analysis on the Connected Bradford platform.
 
