@@ -31,8 +31,6 @@ Some datasets in Connected Bradford have features that do not sit well within ei
 
 The Connected Bradford Flexible Data Model enables researchers to link standardised datasets and tables across different areas, e.g. primary care, social care and education. In order to be linked to a CDM or clinical dataset, FDMs are designed in the same way as a full CDM, to standardize the structure and content of observational data and to enable efficient analyses that can produce reliable evidence. This also helps any researcher familiar with CDM and OMOP vocabulary to replicate analysis on the Connected Bradford platform.
 
-[OMOP guidelines here](https://ohdsi.github.io/CommonDataModel/cdm60.html)
-
 
 ### Standard FDM tables included in this dataset
 
