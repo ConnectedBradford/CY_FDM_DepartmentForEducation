@@ -67,11 +67,11 @@ The validated minimum and maximum of additional ‘event’ dates are stored in 
 
 The visit_occurence table contains Events where Persons engage with adult social care for a duration of time. They are often also referred to by OMOP as 'Encounters'. Visits are defined by a configuration of circumstances under which they occur. All validated 'events' are stored in the visit_occurence table.
 
-ℹ️ **Source tables in this dataset**
+### Source tables in this dataset
 
 There are three source tables in this dataset. Source tables are those that have had little to no manipulation other than to validate any event dates. All source field are prefixed with 'src_'. The three source tables in the adult social care data set are:
 
-## src_EYFSP - 2002/03-
+### src_EYFSP - 2002/03-
 
 Early Years Foundation Stage Profile data. This has information on the statutory assessment of children in the final year of the Foundation Stage (Reception year).
 
