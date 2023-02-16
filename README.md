@@ -155,6 +155,8 @@ Phonics Screening data. This has information on the Phonics assessment of learne
 
 📖 [Data dictionary](https://github.com/ConnectedBradford/CY_FDM_DepartmentForEducation/blob/main/Copy%20of%20DfE%20Data%20Dictionary.xlsx)  
 
+🧒[Early years foundation stage (EYFS) statutory framework](https://www.gov.uk/government/publications/early-years-foundation-stage-framework--2)
+
 
 
 
