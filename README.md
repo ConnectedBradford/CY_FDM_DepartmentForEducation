@@ -19,7 +19,7 @@ This dataset and page is maintained by [Robert Shore](https://actearly.org.uk/te
 
 # DfE
 
-📌 The DfE FDM is made up of 26 source tables (data dictionaries linked) as well as additional standardised (read more on 'FDMs' below) tables created by the Connected Bradford team. This FDM holds routinely collected DfE data and educational records for 299,888 individuals, made up from primary and secondary care data for those who attended school after 1997.* *It is collected on either an annual or termly basis, depending on the table.
+📌 The DfE FDM is made up of 26 source tables (data dictionaries linked) as well as additional standardised (read more on 'FDMs' below) tables created by the Connected Bradford team. This FDM holds routinely collected DfE data and educational records for 299,888 individuals, made up from primary and secondary care data for those who attended school after 1997. It is collected on either an annual or termly basis, depending on the table.
 
 The source tables are largely populated by fields with the prefix 'src_'. When you see the 'src_' prefix, this means that field has not been reformatted by the Connected Bradford team and it is included in its raw form.
 
