@@ -134,7 +134,7 @@ This dataset and page is maintained by [Robert Shore](https://actearly.org.uk/te
 
 ## Useful links
 
-📖 [Data dictionary](https://github.com/ConnectedBradford)  
+📖 [Data dictionary](https://github.com/ConnectedBradford/CY_FDM_DepartmentForEducation/blob/main/Copy%20of%20DfE%20Data%20Dictionary.xlsx)  
 
 
 
