@@ -65,7 +65,7 @@ The validated minimum and maximum of additional ‘event’ dates are stored in 
 5,955,732 records
 
 
-The visit_occurence table contains Events where Persons engage with adult social care for a duration of time. They are often also referred to by OMOP as 'Encounters'. Visits are defined by a configuration of circumstances under which they occur, such as whether the patient comes into contact  with social care, the other way around, or the interaction is remote. All validated 'events' are stored in the visit_occurence table.
+The visit_occurence table contains Events where Persons engage with adult social care for a duration of time. They are often also referred to by OMOP as 'Encounters'. Visits are defined by a configuration of circumstances under which they occur. All validated 'events' are stored in the visit_occurence table.
 
 ### Source tables in this dataset
 
