@@ -87,7 +87,7 @@ Key stage 2 attainment data. This has information on the assessment of learners 
 
 ### src_KS2_pupil 1995/96-
 
-Key stage 2 attainment data. This has information on the assessment of learners by the end of year 6 of schooling.
+Key stage 2 administrative data. This has information on assessment and exam entries, eligibility and inclusion of learners as well as some outcomes by the end of year 6 of schooling.
 
 ### src_KS3_exam - 2006/07-2007/08
 
@@ -95,7 +95,7 @@ Key stage 3 attainment data.
 
 ### src_KS3_pupil - 2001/02-2007/08
 
-Key stage 3 attainment data.
+Key stage 3 administrative data. This has information on assessment and exam entries, eligibility and inclusion of learners as well as some outcomes.
 
 ### src_KS3_TA - 2008/09-2012/13
 
@@ -105,7 +105,7 @@ Key stage 4 attainment data (all methodologies). This has information on the ass
 
 ### src_KS4_pupil - 2001/02-
 
-Key stage 4 attainment data (all methodologies). This has information on the assessment of learners by the end of year 11 of schooling.
+Key stage 4 administrative data. This has information on assessment and exam entries, eligibility and inclusion of learners as well as some outcomes by the end of year 11 of schooling.
 
 ### src_KS5_exam - 2004/05-
 
@@ -113,7 +113,7 @@ Key stage 5 attainment data. This has information on the post-16 assessment of l
 
 ### src_KS5_student 2002/03-
 
-Key stage 5 attainment data. This has information on the post-16 assessment of learners in school sixth forms and FE colleges.
+Key stage 5 administrative data. This has information on assessment and exam entries, eligibility and inclusion of learners as well as some outcomes in sixth forms and FE colleges.
 
 ### src_absence - 2005/06-
 
