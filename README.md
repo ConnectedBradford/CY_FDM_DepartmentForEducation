@@ -4,7 +4,7 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=ConnectedBradford.FDM_AdultSocialCare)
+![](https://visitor-badge.glitch.me/badge?page_id=ConnectedBradford.FDMDepartmentForEducation)
 
 This is the **Connected Bradford Department for Education (DfE)** GitHub page where you can find a summary of the dataset(s), data dictionaries and helpful code.
 
