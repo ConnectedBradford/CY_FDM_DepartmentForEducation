@@ -95,29 +95,29 @@ Key stage 3 attainment data.
 
 Key stage 3 attainment data.
 
-### src_KS3_TA - 2008/09/2012/13
+### src_KS3_TA - 2008/09-2012/13
 
-### src_KS4_exam - 2001/02 - 
-
-Key stage 4 attainment data (all methodologies). This has information on the assessment of learners by the end of year 11 of schooling.
-
-### src_KS4_pupil - 2001/02 -
+### src_KS4_exam - 2001/02- 
 
 Key stage 4 attainment data (all methodologies). This has information on the assessment of learners by the end of year 11 of schooling.
 
-### src_KS5_exam - 2004/05 
+### src_KS4_pupil - 2001/02-
+
+Key stage 4 attainment data (all methodologies). This has information on the assessment of learners by the end of year 11 of schooling.
+
+### src_KS5_exam - 2004/05-
 
 Key stage 5 attainment data. This has information on the post-16 assessment of learners in school sixth forms and FE colleges.
 
-### src_KS5_student 2002/03
+### src_KS5_student 2002/03-
 
 Key stage 5 attainment data. This has information on the post-16 assessment of learners in school sixth forms and FE colleges.
 
-### src_absence 2001/02 - 2001/02
+### src_absence - 2005/06-
 
 This has information on pupil absences derived from the termly School Census.
 
-### src_census 2001/02
+### src_census 2001/02-
 
 School Census data. This has information on pupils attending maintained schools. From Spring 2013/14, this includes local authority (LA) maintained PRUs and alternative provision (AP) academies, including AP Free Schools.
 
@@ -127,11 +127,11 @@ Early years census data. This has information on children attending any private,
 
 Alternative Provision census data. This has information on children in Alternative Provision i.e. a school not maintained by an LA but which the authority is paying full tuition fees for.
 
-### src_exclusions - 2001/02
+### src_exclusions - 2001/02-
 
 This has information on pupil exclusions as collected in the termly School Census.
 
-### src_post16 - 2007/08
+### src_post16 - 2007/08-
 
 This has information on post-16 learning aims as collected in the School Census.
 
