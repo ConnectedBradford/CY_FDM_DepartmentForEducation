@@ -89,7 +89,11 @@ This dataset and page is maintained by [Robert Shore](https://actearly.org.uk/te
 
 ### src_KS3_exam - 2006/07-2007/08
 
+*Key stage 3 attainment data.*
+
 ### src_KS3_pupil - 2001/2002-2007/08
+
+*Key stage 3 attainment data.*
 
 ### src_KS3_TA - 2008/09/2012/13
 
